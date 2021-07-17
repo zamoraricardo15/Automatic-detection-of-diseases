@@ -1,5 +1,6 @@
 # Automatic-detection-of-diseases
 Deep Learning
+
 Crop diseases are a major treat to productive sector and food security. In Costa Rica, but also
 around the world, farmers suffer the presence of diseases resulting in severe crops yield loss. Diseases
 detection is a hard task, usually farmers do not have all the knowledge required to deal with diseases.
