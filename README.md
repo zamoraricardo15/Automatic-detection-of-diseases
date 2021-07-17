@@ -1,5 +1,5 @@
 # Automatic-detection-of-diseases
-Deep Learning
+Deep Learning - project with Jose Antonio Brenes Carranza
 
 Crop diseases are a major treat to productive sector and food security. In Costa Rica, but also
 around the world, farmers suffer the presence of diseases resulting in severe crops yield loss. Diseases
